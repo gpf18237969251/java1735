@@ -1,13 +1,62 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>无标题文档</title>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style type="text/css">
+        #kuangjia{
+            width:600px;
+            height: 70px;
+            background-position:0px 80px;
+            float:right;
+        }
+        #kuangjia li{
+            list-style: none;
+            float: left;
+        }
+        #no1,#no2,#no3,#no4{
+            width:25px;
+            height:25px;
+            background-image: url("img/icon.gif");
+        }
+        #no1{
+            background-position:0px 0px;
+        }
+        #no2{
+            background-position:-30px 0px;
+        }
+        #no3{
+            background-position:90px 0px;
+        }
+        #no4{
+            background-position:66px 0px;
+        }
+        .bg{
+            width: 50px;
+            height: 30px;
+            background-image: url("img/icon.gif");
+            background-position:-3px -30px;
+        }
+        li{
+            width: 80px;
+        }
+
+    </style>
 </head>
-<frameset rows="25%,*" frameborder="0">
-	<frame src="html/up.html" / scrolling="no" noresize="noresize">
-	<frameset cols="20%,*" frameborder="0" scrolling="no" noresize="noresize">
-    	<frame src='html/left.html' />
-        <frame src="html/right1.html" name="right" />
-    </frameset>
+<body>
+    <div id="kuangjia">
+        <ul>
+            <li id="no1"></li>
+            <li><a href="#">购物车</a></li>
+            <li id="no2"></li>
+            <li><a href="#">帮助中心</a></li>
+            <li id="no3"></li>
+            <li><a href="#">安全中心</a></li>
+            <li id="no4"></li>
+            <li><a href="#">密码中心</a></li>
+            <li class="bg"><a href="#">登陆</a></li>
+            <li class="bg"><a href="#">注册</a></li>
+        </ul>
+    </div>
+</body>
 </html>
