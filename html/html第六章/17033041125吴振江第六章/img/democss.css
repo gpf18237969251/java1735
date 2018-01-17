@@ -1,0 +1,67 @@
+#demo{
+    width: 1000px;
+    height: 140px;
+    margin: 0px auto;
+    background-image: url("h_bg.jpg") ;
+
+}
+.logo{
+     height: 90px;
+    width: 300px;
+    margin-left:0px;
+ 
+}
+.header {
+    height:40px;
+    width: 610px;
+    margin-left: 387px;
+		float:left;
+		margin-top:-154px;
+		
+	
+    
+}
+.border{
+    height: 25px;
+    width: 550px;
+    margin-left: 448px;
+	margin-top:-100px;
+
+   
+}
+.footer{
+   margin-top: 0px;
+    height: 47px;
+    
+}
+.footer ul li{
+	width:83px;
+	float:left;
+	list-style:none;
+	font-family:微软雅黑;
+	font-size:15px;
+	letter-spacing:1px;
+	
+	}
+	.footer a{
+		color:#000;
+		text-decoration:none;
+		
+		}	
+.footer a:hover{
+	background-image:url(nav_bg.gif);
+	padding:7px 8px;
+	}
+.footer a:active{
+	color:#0F0;
+	}
+#demo .div_2{
+	font-size:15px;
+	font-family:微软雅黑;
+	color:#666;
+	padding-top:8px;
+	}
+
+
+
+				
