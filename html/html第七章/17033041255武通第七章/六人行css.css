@@ -1,0 +1,58 @@
+#daohang{
+    width: 50%;
+    height:800px;
+    margin: 0px 400px;
+}
+.h_1{
+    background:url("logo.gif") no-repeat;
+    width: 170px;
+    height: 65px;
+}
+.h_2{
+    text-align: center;
+    margin-top: -58px;
+    margin-left: -90px;
+}
+.h_2 a{
+    text-decoration: none;
+    color: darkgray;
+    padding: 0px 3px;
+}
+a:hover{
+    color: red;
+}
+.h_5{
+  margin-left: 203px;
+    margin-top: -26px;
+    border: 4px solid blue;
+    width: 277px;
+    height: 20px;
+    text-align: right;
+
+
+}
+.h_4{
+    width: 72px;
+    height: 27px;
+    margin: -28px 495px;
+}
+.h_3{
+    height: 15px;
+    margin-left: 230px;
+    height: 22px;
+    width: 254px;
+    margin-top: 18px;
+
+}
+.h_6{
+    width: 72px;
+    height: 27px;
+    background: blue;
+}
+.h_7{
+    background: url("icon.gif");
+    height: 20px;
+    width: 24px;
+    margin-left: 206px;
+    margin-top: 5px;
+}
