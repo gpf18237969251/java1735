@@ -1,0 +1,41 @@
+<HTML> 
+<HEAD> 
+<TITLE>测试表格内的滚动条</TITLE> 
+</HEAD> 
+<BODY> 
+<table>
+  <tr>
+    <td>表格内的滚动条:</td>
+    <td>
+      <div id="wins" 
+        style="position:absolute;height:200;width:200;overflow:auto;background:#EEEEEE;"> 
+        <p>pppppppppppppppppppppppppppppppppppppppppppppppppp </p> 
+        <p>pppppppppppppppppppppppppppppppppppppppppppppppppp </p> 
+        <p>ppppppppppppppppppppppppp </p> 
+        <p>ppppppppppppppppppppppppp </p> 
+        <p>ppppppppppppppppppppppppp </p> 
+        <p>ppppppppppppppppppppppppp </p> 
+        <p>ppppppppppppppppppppppppp </p> 
+        <p>ppppppppppppppppppppppppp </p> 
+        <p>ppppppppppppppppppppppppp </p> 
+        <p>ppppppppppppppppppppppppp </p> 
+        <p>ppppppppppppppppppppppppp </p> 
+        <p>ppppppppppppppppppppppppp </p> 
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="right">
+      <span onmouseover='scrollb=setInterval("wins.scrollLeft-=10",100)' 
+                 onmouseout=clearInterval(scrollb)>向左</span> 
+            <span onmouseover='scrollb=setInterval("wins.scrollTop-=10",100)' 
+                        onmouseout=clearInterval(scrollb)>向上</span>
+      <span onmouseover='scrollb=setInterval("wins.scrollLeft+=10",100)' 
+                 onmouseout=clearInterval(scrollb)>向右</span>
+      <span onmouseover='scrollb=setInterval("wins.scrollTop+=10",100)' 
+                 onmouseout=clearInterval(scrollb)>向下</span>
+    </td>
+  </tr>
+</table>
+</BODY> 
+</HTML>
