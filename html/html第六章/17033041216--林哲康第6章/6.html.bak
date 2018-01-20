@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+  <link type="text/css" rel="stylesheet" href="css/6.css"/>
+ </head>
+ <body>
+         <div class="boder">
+        	<div class="body_lift">
+            <div class="lift_h">
+            	<div class="lift lift_h1">
+                	&nbsp;  家用电器
+                    <ul>
+                    	<li><a href="#">大家电</a></li>
+                        <li><a href="#">洗衣机</a></li>
+                        <li><a href="#">平板电视</a></li>
+                        <li><a href="#">电热水器</a></li>
+                        <li><a href="#">家庭音响</a></li>
+                        <li><a href="#">热水器</a></li>
+                        <li><a href="#">空调冰箱</a></li>
+                        <li><a href="#">冷柜</a></li>
+                        <li><a href="#">DVD</a></li>
+                        <li><a href="#">电视附件</a></li>
+                        <li><a href="#">电燃气</a></li>
+                        <li><a href="#">家电下乡</a></li>
+                        <li><a href="#">家电服务</a></li>
+                        <li><a href="#">电饭煲</a></li>
+                        <li><a href="#">摄像机</a></li>
+
+                    </ul>
+                </div>
+                <div class="lift lift_h2">
+                	&nbsp;&nbsp;书籍
+                    <ul>
+                    	<li><a href="#">大家电</a></li>
+                        <li><a href="#">洗衣机</a></li>
+                        <li><a href="#">平板电视</a></li>
+                        <li><a href="#">电热水器</a></li>
+                        <li><a href="#">家庭音响</a></li>
+                        <li><a href="#">热水器</a></li>
+                        <li><a href="#">空调冰箱</a></li>
+                        <li><a href="#">冷柜</a></li>
+                        <li><a href="#">DVD</a></li>
+                        <li><a href="#">电视附件</a></li>
+                        <li><a href="#">电燃气</a></li>
+                        <li><a href="#">家电下乡</a></li>
+                        <li><a href="#">家电服务</a></li>
+                        <li><a href="#">电饭煲</a></li>
+                        <li><a href="#">摄像机</a></li>
+
+                    </ul>
+                </div>
+                <div class="lift lift_h3">
+                	&nbsp;&nbsp;手机数码
+                    <ul>
+                    	<li><a href="#">大家电</a></li>
+                        <li><a href="#">洗衣机</a></li>
+                        <li><a href="#">平板电视</a></li>
+                        <li><a href="#">电热水器</a></li>
+                        <li><a href="#">家庭音响</a></li>
+                        <li><a href="#">热水器</a></li>
+                        <li><a href="#">空调冰箱</a></li>
+                        <li><a href="#">冷柜</a></li>
+                        <li><a href="#">DVD</a></li>
+                        <li><a href="#">电视附件</a></li>
+                        <li><a href="#">电燃气</a></li>
+                        <li><a href="#">家电下乡</a></li>
+                        <li><a href="#">家电服务</a></li>
+                        <li><a href="#">电饭煲</a></li>
+                        <li><a href="#">摄像机</a></li>
+
+                    </ul>
+                </div>
+                <div class="lift lift_h4">
+                	&nbsp;&nbsp;日用百货
+                    <ul>
+                    	<li><a href="#">大家电</a></li>
+                        <li><a href="#">洗衣机</a></li>
+                        <li><a href="#">平板电视</a></li>
+                        <li><a href="#">电热水器</a></li>
+                        <li><a href="#">家庭音响</a></li>
+                        <li><a href="#">热水器</a></li>
+                        <li><a href="#">空调冰箱</a></li>
+                        <li><a href="#">冷柜</a></li>
+                        <li><a href="#">DVD</a></li>
+                        <li><a href="#">电视附件</a></li>
+                        <li><a href="#">电燃气</a></li>
+                        <li><a href="#">家电下乡</a></li>
+                        <li><a href="#">家电服务</a></li>
+                        <li><a href="#">电饭煲</a></li>
+                        <li><a href="#">摄像机</a></li>
+
+                    </ul>
+                </div>
+             </div>
+            </div>
+		 </div>
+ </body>
+</html>

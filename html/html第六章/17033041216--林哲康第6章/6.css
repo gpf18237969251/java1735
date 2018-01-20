@@ -1,0 +1,30 @@
+.boder{
+		height:700px;
+
+		}
+		.body_lift,.body_center,.body_right{
+			float:left
+			}
+		.body_lift{
+			height:98%;
+			width:21%;
+			background:url(img/bg.gif) no-repeat;
+			background-position:8px 0px;
+			}
+			.lift{
+				height:145px;
+				}
+			.lift_h{
+				margin-top:40px
+				}
+				.lift_h li{
+					font-size:13px;
+					list-style:none;
+					text-align:center;
+					float: left;
+					padding:1px 2px;
+					}
+				.lift_h ul{
+					float: left;
+					margin-left:-30px
+					}
